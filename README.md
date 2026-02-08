@@ -47,11 +47,11 @@ Desenvolvedor backend com experiência em construção de serviços escaláveis,
 
 ### Top linguagens
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosayajin22&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pedrosayajin22&layout=compact&theme=github_dark&hide_border=true)](https://github.com/Pranesh-2005/github-readme-stats-fast)
 
 ### Visão geral
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrosayajin22&show_icons=true&theme=github_dark&hide_border=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=pedrosayajin22&show_icons=true&theme=github_dark&hide_border=true&hide=issues)](https://github.com/Pranesh-2005/github-readme-stats-fast)
 
 ### Sequência de contribuições
 
